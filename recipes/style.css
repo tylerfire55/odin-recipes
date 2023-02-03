@@ -3,6 +3,37 @@ body {
     background-color: rgb(32, 32, 32);
     color: white;
 }
+
+p {
+    text-align: justify;
+}
+
 h1 {
     text-align: center;
+}
+
+h5 {
+    font-style: italic;
+}
+
+ol {
+    text-align: justify;
+}
+
+.top{
+    color: white;
+}
+
+.top:visited{
+    color: rgb(55, 58, 182);
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+div {
+    display: flex;
+    justify-content: center;
 }
